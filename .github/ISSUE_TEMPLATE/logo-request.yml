@@ -1,0 +1,33 @@
+name: Logo request
+description: Request a new Mic Pro-ready logo
+title: "Logo request: "
+labels: ["logo request"]
+body:
+  - type: input
+    id: brand
+    attributes:
+      label: Brand or product
+      placeholder: "Example: Descript"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Best logo source
+      description: Official brand asset page, press kit, website, or reliable public source.
+      placeholder: "https://..."
+  - type: dropdown
+    id: variant
+    attributes:
+      label: Variant needed
+      options:
+        - Color and high contrast
+        - Color only
+        - High contrast only
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything that would help make the logo readable on the Mic Pro display.

@@ -1,0 +1,860 @@
+[
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/anthropic/color/anthropic-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/anthropic/mono/anthropic-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#D97757",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "623d356625fa93bdf65acd15a8a8748bc36fc789df3f1bd6932c0adf67be0efb",
+      "mono": "08d13153d211d66ab02b6f220491d23b9552f42b864771ce89dab12439570697"
+    }
+  },
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/chatgpt/color/chatgpt-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/chatgpt/mono/chatgpt-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ChatGPT-Logo.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#10A37F",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "cc2612bf597cf5ad3449b347f8699986254d7f5c599741a0a3bc54160c291cd5",
+      "mono": "e926575ea4e2e1d3e4ca43967b428d21ffc413ce76417582e69de148e8ce1ee1"
+    }
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/claude/color/claude-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/claude/mono/claude-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "2026.5.1 Film Batch/ASSETS/logos/png/claude-symbol-transparent.png",
+    "source_type": "local_png",
+    "notes": "",
+    "color": null,
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "4d0109ffbbbdf76d6869ba26924bfc8c6a39d69d5f0a2f6faf6c67b607ee71b3",
+      "mono": "54bc5ffd01f1810714be0fc0c5080fd9a3b2d68d3b5dbf34442c70f98cb261ba"
+    }
+  },
+  {
+    "slug": "codex",
+    "name": "Codex",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/codex/color/codex-app-icon-color-micpro-240x208-transparent.png",
+      "mono": "logos/codex/mono/codex-app-icon-micpro-240x208-transparent.png"
+    },
+    "source": "2026.5.1 Film Batch/ASSETS/logos/png/openai-codex-app-icon-transparent.png",
+    "source_type": "local_png",
+    "notes": "The local source is an app tile; only the Codex cloud mark is extracted for a transparent Mic Pro asset.",
+    "color": null,
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "755776670bc7b9d5dbd0bad37f6c687563438f326e5f645ac94b5b06dc77d0e7",
+      "mono": "b77ad80f0c7777466335cfd05f7235cba434938dbe7ee892d0136e484ea7b409"
+    }
+  },
+  {
+    "slug": "gpt",
+    "name": "GPT",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/gpt/color/gpt-openai-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/gpt/mono/gpt-openai-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "2026.5.1 Film Batch/ASSETS/logos/png/openai-symbol-2025-transparent.png",
+    "source_type": "local_png",
+    "notes": "GPT uses the OpenAI symbol so it is distinct from the ChatGPT app mark.",
+    "color": "#10A37F",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "22a84fea1f9f9495a537515ad63b7322667b7608bdeac4a54dc2bc703939e7a8",
+      "mono": "7ab2ab1d391181196b3607e2103f8265f1b8b2428655bb3876ee896c12e92134"
+    }
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/gemini/color/gemini-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/gemini/mono/gemini-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlegemini.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#8E75B2",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "748163eb4635ab7f696812921b5957650c0e195671cd6b36b023b32c870dae51",
+      "mono": "23034ba4e6d5eadf9cdaafcd89cee909680a72a01cdeedefc29c17d5b73ebc78"
+    }
+  },
+  {
+    "slug": "grok",
+    "name": "Grok",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/grok/color/grok-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/grok/mono/grok-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grok-feb-2025-logo.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "59f8966f6de0ea501dcd2ae5e2f63d90a732be73b6014083c14910860520860f",
+      "mono": "59f8966f6de0ea501dcd2ae5e2f63d90a732be73b6014083c14910860520860f"
+    }
+  },
+  {
+    "slug": "notebooklm",
+    "name": "NotebookLM",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/notebooklm/color/notebooklm-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/notebooklm/mono/notebooklm-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notebooklm.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#1A73E8",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "3b2ee7fac14ee208a8ae93123e47c14bc16960d1943cd8f65d49a8752cf91340",
+      "mono": "7404aee97106b6cb8a1d296d4b87cae4372003a806a0ead2a78edfcfbcfbb20d"
+    }
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/openai/color/openai-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/openai/mono/openai-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "2026.5.1 Film Batch/ASSETS/logos/png/openai-symbol-2025-transparent.png",
+    "source_type": "local_png",
+    "notes": "",
+    "color": "#10A37F",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "22a84fea1f9f9495a537515ad63b7322667b7608bdeac4a54dc2bc703939e7a8",
+      "mono": "7ab2ab1d391181196b3607e2103f8265f1b8b2428655bb3876ee896c12e92134"
+    }
+  },
+  {
+    "slug": "openclaw",
+    "name": "OpenClaw",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/openclaw/color/openclaw-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/openclaw/mono/openclaw-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://openclaw.ai/favicon.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "472e3f45ecb8199a362b62008dd49cfc673e3b6ebc50f185f75010a0a09d2cdf",
+      "mono": "472e3f45ecb8199a362b62008dd49cfc673e3b6ebc50f185f75010a0a09d2cdf"
+    }
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/perplexity/color/perplexity-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/perplexity/mono/perplexity-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/perplexity.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#1FB8CD",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "1e5dc2f16a7d8b3f759e4f012fc1bad4926ac92c4bd56b993fd19e1c4b880969",
+      "mono": "385e2128aca06775b78009ab6378f1585d9b9933bae7297ef620ccc5407fe026"
+    }
+  },
+  {
+    "slug": "poke",
+    "name": "Poke",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/poke/color/poke-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/poke/mono/poke-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://poke.com/assets/poke_app_icon.webp",
+    "source_type": "url_image",
+    "notes": "Official Poke app icon source; white palm mark extracted from blue app tile.",
+    "color": null,
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "fe7613ff0505756af960126288be307a0df262c9d20e094586829b25cb424189",
+      "mono": "a227653a476fb5fb0f2cc480489163d6b84be0432d160a842c8eeb97e8dd8504"
+    }
+  },
+  {
+    "slug": "sora",
+    "name": "Sora",
+    "category": "AI tools",
+    "files": {
+      "color": "logos/sora/color/sora-openai-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/sora/mono/sora-openai-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "openai-symbol-micpro-240x208-transparent.png",
+    "source_type": "duplicate",
+    "notes": "Sora is grouped under OpenAI because no reliable standalone Sora mark was found in the local content sources.",
+    "color": "#10A37F",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "22a84fea1f9f9495a537515ad63b7322667b7608bdeac4a54dc2bc703939e7a8",
+      "mono": "7ab2ab1d391181196b3607e2103f8265f1b8b2428655bb3876ee896c12e92134"
+    }
+  },
+  {
+    "slug": "liquid-death",
+    "name": "Liquid Death",
+    "category": "Brands",
+    "files": {
+      "color": "logos/liquid-death/color/liquid-death-logo-color-micpro-240x208-transparent.png",
+      "mono": "logos/liquid-death/mono/liquid-death-logo-micpro-240x208-transparent.png"
+    },
+    "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Liquid-Death-Logo.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "99c492ecf8d5e5208f6493008d214e2cdc26f1462b8e3ac21b2c9e2a5f3a8960",
+      "mono": "99c492ecf8d5e5208f6493008d214e2cdc26f1462b8e3ac21b2c9e2a5f3a8960"
+    }
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "category": "Commerce",
+    "files": {
+      "color": "logos/stripe/color/stripe-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/stripe/mono/stripe-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#635BFF",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "c488c87d619ca3d84fd6bb00995521ff699e958cd68e438a73a40d86f4b7cf4a",
+      "mono": "557757a2622851584ef6e0280dd97ca7ffa31e081edc7ffd513895bbb9fa69c2"
+    }
+  },
+  {
+    "slug": "canva",
+    "name": "Canva",
+    "category": "Creator tools",
+    "files": {
+      "color": "logos/canva/color/canva-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/canva/mono/canva-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#00C4CC",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "7c89423f6b4464bc682cc1759bb26682ed1b201dcd9e1694a2248ab1679f854a",
+      "mono": "ed0b67644994b2c68a0f4dbb45deb78ffa25411deb7311cc68677362722ced54"
+    }
+  },
+  {
+    "slug": "descript",
+    "name": "Descript",
+    "category": "Creator tools",
+    "files": {
+      "color": "logos/descript/color/descript-app-icon-color-micpro-240x208-transparent.png",
+      "mono": "logos/descript/mono/descript-app-icon-micpro-240x208-transparent.png"
+    },
+    "source": "Descript Job Application/descript logo.png",
+    "source_type": "local_png",
+    "notes": "Existing local Descript app icon; white background removed and color converted for E-Ink contrast.",
+    "color": null,
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "b915361f1448fa7cae20f60882a4fc9162b290c9fbc4733e0aa2e990f9ffb9f9",
+      "mono": "9a73c114fd3a557ef8c14fc30f0669bdc29acf9c3c644466a8f13ed50927693b"
+    }
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "category": "Creator tools",
+    "files": {
+      "color": "logos/figma/color/figma-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/figma/mono/figma-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#F24E1E",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "bf243d236626d53a11ae8eb5cb1a18dfde4968972ec3a74e537e957bc8e21cf6",
+      "mono": "e1fef1ebde7652a2c4dd9d8aeff8fd38c3729126df09df3b1cd3147badf32b14"
+    }
+  },
+  {
+    "slug": "sprout-social",
+    "name": "Sprout Social",
+    "category": "Creator tools",
+    "files": {
+      "color": "logos/sprout-social/color/sprout-social-leaf-color-micpro-240x208-transparent.png",
+      "mono": "logos/sprout-social/mono/sprout-social-leaf-micpro-240x208-transparent.png"
+    },
+    "source": "https://seeds.sproutsocial.com/logos.zip::Logo Package/svg/lgo_sprout_leaf-icon_black.svg",
+    "source_type": "url_zip_svg",
+    "notes": "Official Sprout Social logo package; single-color leaf icon is best for limited space.",
+    "color": "#0B7F4F",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "61051ff0cbe630007d6ccc4ebd119370b1b2df8bc983414444feb2dc40d5b3fe",
+      "mono": "974dd89455a25e5b0cbdd2c314829137752b1ad28ce370e2380c863c1f3e7ba5"
+    }
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "category": "Developer tools",
+    "files": {
+      "color": "logos/cursor/color/cursor-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/cursor/mono/cursor-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "2f731bc665ca30f1ce3f1c9f359719c9c5ea41e3399ccded9ceb40645fbfdb88",
+      "mono": "2f731bc665ca30f1ce3f1c9f359719c9c5ea41e3399ccded9ceb40645fbfdb88"
+    }
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "category": "Developer tools",
+    "files": {
+      "color": "logos/github/color/github-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/github/mono/github-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#181717",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "10c658fcc7e20287e88fba47d199c07b1cc1060f0efa8a021e11de58d2731cd6",
+      "mono": "8bd4232226f8b3d4ae6e80f8d747083f7213052be8ff7655b6a361c64c787062"
+    }
+  },
+  {
+    "slug": "dropbox",
+    "name": "Dropbox",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/dropbox/color/dropbox-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/dropbox/mono/dropbox-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dropbox.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#0061FF",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "3bba5ce425133956cfc9e9b3b06f16fa8cdfe3c392afeb6fb61db67869d57ecc",
+      "mono": "2605b5b002ada450c6b4aa53221086afe21f4985f0ded89666f52dfa848d89de"
+    }
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/google/color/google-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/google/mono/google-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/google.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#4285F4",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "a5bab0f4abf4b8a545d97b196431347953fb0c721758c662000afa47c14d502c",
+      "mono": "6b1a7020d7b57c49eea085d1a6316274781e2f69c20adf588475c7b502862afe"
+    }
+  },
+  {
+    "slug": "google-drive",
+    "name": "Google Drive",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/google-drive/color/google-drive-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/google-drive/mono/google-drive-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googledrive.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#34A853",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "2d95ae821bc556f75a4419b2b4fd45422996d1291b8b85e3583375ed6caf8747",
+      "mono": "2a4c9e0fb5af8793c795d30cc33ed744f45184c7804cd3540857efc0836dad6f"
+    }
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/microsoft/color/microsoft-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/microsoft/mono/microsoft-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoft.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#00A4EF",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "2a8a93699afcd642a9c5b99d3df97275a0fef59d48c015b09d063d9ab8943164",
+      "mono": "6d5c8c827f0b73bcbd9db58d8c7403106e759801b39e6035a5355e43be8e9e3f"
+    }
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/notion/color/notion-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/notion/mono/notion-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "e1e7bdbda04b26c08c01a11b3a0771c7fc3a67afe3bcddb5d628f15026070656",
+      "mono": "e1e7bdbda04b26c08c01a11b3a0771c7fc3a67afe3bcddb5d628f15026070656"
+    }
+  },
+  {
+    "slug": "slack",
+    "name": "Slack",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/slack/color/slack-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/slack/mono/slack-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#4A154B",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "42c927fd42f6d65afd7bfcbd05f6f1b7339dc1a8ec07715578e2ef5042b3a77e",
+      "mono": "b509102bef105b36360453d71cf623cabc43551d99a0ffc8e78a306285f5151d"
+    }
+  },
+  {
+    "slug": "zapier",
+    "name": "Zapier",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/zapier/color/zapier-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/zapier/mono/zapier-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zapier.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#FF4A00",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "9e04941cd7e5c0af56752ec494fe017a3619476cbb48903991208bfc1ded3423",
+      "mono": "5f77f790d7941bedcb28920fe90e35cdcafa3be8ebba153046385d323cf38057"
+    }
+  },
+  {
+    "slug": "zoom",
+    "name": "Zoom",
+    "category": "Productivity",
+    "files": {
+      "color": "logos/zoom/color/zoom-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/zoom/mono/zoom-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoom.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#0B5CFF",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "56715413b32acc2e64895e976a091f7b309eaf6f9f2f5e5f589ba1dc61cc7b22",
+      "mono": "63a1c9e1e8b8b9d2860274ded44014da2edbfb4fda5c74bc14a16762df8fb8be"
+    }
+  },
+  {
+    "slug": "malwarebytes",
+    "name": "Malwarebytes",
+    "category": "Security",
+    "files": {
+      "color": "logos/malwarebytes/color/malwarebytes-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/malwarebytes/mono/malwarebytes-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/malwarebytes.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#005DD8",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "f1a76c1b23f45a559f1fc3eb04b836167cc03a55b84d7022443667531aecd3e4",
+      "mono": "aa85941ec09a78aaf518e807ef2722c3853b28cb7b267b260545df2ece6d4ccf"
+    }
+  },
+  {
+    "slug": "facebook",
+    "name": "Facebook",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/facebook/color/facebook-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/facebook/mono/facebook-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#1877F2",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "9cbafbb2dfd54886a136a080b11784233c6c6d08472817165dec7107c2c8c738",
+      "mono": "f2d68ef9c842ec1199e451d78dc2e76383d0eb911f1e82261a5f01f1efa350e9"
+    }
+  },
+  {
+    "slug": "instagram",
+    "name": "Instagram",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/instagram/color/instagram-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/instagram/mono/instagram-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#E4405F",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "9837f1a14a2cd2e64147e6cf01a3850c61f836e44fe8f17b5b0105b17c3088d7",
+      "mono": "c22d8341e148e3bbc7a41ae3eb5992426d244959cf8c34f0b801a3861d345eac"
+    }
+  },
+  {
+    "slug": "linkedin",
+    "name": "LinkedIn",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/linkedin/color/linkedin-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/linkedin/mono/linkedin-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#0A66C2",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "f68c0d79ac85e2fea6665da2e6ee07d4b6b13c5eda5c9921e9bb5616c497ae69",
+      "mono": "247d4dd42c066a221b8e8a4ae461d7b91c985d9b4d755de43eef69deeed29deb"
+    }
+  },
+  {
+    "slug": "meta",
+    "name": "Meta",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/meta/color/meta-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/meta/mono/meta-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/meta.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#0467DF",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "29c528106b05129355ceebd94a81041acb2a71562b4fb4591c193bebff4e9602",
+      "mono": "7f6730395ac6d05b068fef0e5a7cf511c0e21b30a724ad76ffefd7b84408375c"
+    }
+  },
+  {
+    "slug": "threads",
+    "name": "Threads",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/threads/color/threads-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/threads/mono/threads-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/threads.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "33432eb49feb61c90a3bd86114d71246afcdb21b19109dd5c4528361afebc817",
+      "mono": "33432eb49feb61c90a3bd86114d71246afcdb21b19109dd5c4528361afebc817"
+    }
+  },
+  {
+    "slug": "tiktok",
+    "name": "TikTok",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/tiktok/color/tiktok-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/tiktok/mono/tiktok-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "b9950dd05a97d84218e5536aef6429b386a908ed77d5f9bc223db3b46bf6ceee",
+      "mono": "b9950dd05a97d84218e5536aef6429b386a908ed77d5f9bc223db3b46bf6ceee"
+    }
+  },
+  {
+    "slug": "twitter-legacy-bird",
+    "name": "Twitter legacy bird",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/twitter-legacy-bird/color/twitter-bird-legacy-color-micpro-240x208-transparent.png",
+      "mono": "logos/twitter-legacy-bird/mono/twitter-bird-legacy-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#1DA1F2",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "df1a04ec54af636e1e5de8ab8336ba2ba18ae8994ddc41802b7cd28510a06731",
+      "mono": "61fe1a6a82cbbfa7e85b5d6516b068a0dac3276cb44f4b50d100389ff155d591"
+    }
+  },
+  {
+    "slug": "x-twitter",
+    "name": "X / Twitter",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/x-twitter/color/x-twitter-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/x-twitter/mono/x-twitter-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#000000",
+    "has_color_variant": false,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "a1e74b2025699d6a2c96f5518bca6e2428c7faaada2eef083c9c623158222b6e",
+      "mono": "a1e74b2025699d6a2c96f5518bca6e2428c7faaada2eef083c9c623158222b6e"
+    }
+  },
+  {
+    "slug": "youtube",
+    "name": "YouTube",
+    "category": "Social platforms",
+    "files": {
+      "color": "logos/youtube/color/youtube-symbol-color-micpro-240x208-transparent.png",
+      "mono": "logos/youtube/mono/youtube-symbol-micpro-240x208-transparent.png"
+    },
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg",
+    "source_type": "url_svg",
+    "notes": "",
+    "color": "#FF0000",
+    "has_color_variant": true,
+    "format": "PNG",
+    "width": 240,
+    "height": 208,
+    "transparent_background": true,
+    "sha256": {
+      "color": "c0659742e2d498544384ae9ccd98ce2ea70b9334e65727316e79dc14574337ca",
+      "mono": "15a12735737638424a7f28c38fdc89012d4c8eb43ed3a91843dd7e45c277b244"
+    }
+  }
+]
