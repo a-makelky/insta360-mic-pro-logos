@@ -14,6 +14,7 @@ Use `aaronmakelky.com` as the canonical discovery page and this GitHub repo as t
 - Show searchable logo cards.
 - Let people download individual PNGs.
 - Link to ZIP downloads.
+- Link to the AI Tools Excalidraw library.
 - Link to GitHub issues for logo requests.
 - Link to the repo for pull requests.
 
@@ -32,3 +33,4 @@ It is the same split as field and film room. The website is where people see the
 - `previews/contact-sheet-color.png`
 - `downloads/insta360-mic-pro-logos-color.zip`
 - `downloads/insta360-mic-pro-logos-high-contrast.zip`
+- `downloads/insta360-mic-pro-ai-tools.excalidrawlib`
