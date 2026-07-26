@@ -18,8 +18,15 @@ Start here:
 - [Download all color logos](downloads/insta360-mic-pro-logos-color.zip)
 - [Download all high-contrast logos](downloads/insta360-mic-pro-logos-high-contrast.zip)
 - [Download everything](downloads/insta360-mic-pro-logos-all.zip)
+- [Download the AI Tools Excalidraw library](downloads/insta360-mic-pro-ai-tools.excalidrawlib)
 
 Browse individual logos in [`logos/`](logos/), or use the static browser in [`site/`](site/).
+
+The Excalidraw library contains 11 distinct AI-tool marks as grouped, portable
+native elements. Open the library panel in Excalidraw, choose **Load library
+from file**, and select the downloaded `.excalidrawlib`. See
+[`docs/excalidraw-library.md`](docs/excalidraw-library.md) for testing,
+rebuilding, and public-submission notes.
 
 ## Preview
 
@@ -30,6 +37,10 @@ Color set:
 High-contrast set:
 
 ![High-contrast logo contact sheet](previews/contact-sheet-mono.png)
+
+Excalidraw AI Tools library:
+
+![Excalidraw AI Tools library preview](previews/excalidraw-ai-tools-preview.png)
 
 ## Which Folder Should I Use?
 
